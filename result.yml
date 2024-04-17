@@ -16,7 +16,7 @@ info:
     name: MIT
     url: https://es.wikipedia.org/wiki/Licencia_MIT
 servers:
-  - url: https://peace-society.scodus.com/
+  - url: https://peace-society.scoduscorp.com/
     description: Peace Society Server
 components:
   securitySchemes:

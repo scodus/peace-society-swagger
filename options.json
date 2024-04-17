@@ -21,8 +21,8 @@
 	},
 	"servers": [
 		{
-			"url": "https://accounting.scodus.com/",
-			"description": "accounting software server"
+			"url": "https://peace-society.scodus.com/",
+			"description": "Peace Society Server"
 		}
 	]
 }
